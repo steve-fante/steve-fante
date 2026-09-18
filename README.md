@@ -1,6 +1,6 @@
 ## Steve Christian FANTE
 
-Consultant ERP Odoo et chef de projet SI. Onze ans à traduire des besoins métier
+Consultant ERP Odoo et chef de projet SI. Plus de 4 ans à traduire des besoins métier
 en systèmes qui fonctionnent : plus de dix déploiements Odoo Enterprise menés de
 bout en bout, plus de 65 utilisateurs formés, quatre secteurs d'activité.
 
